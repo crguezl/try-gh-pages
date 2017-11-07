@@ -8,7 +8,7 @@ El despliegue de este repositorio puede verse en esta URL
 
 # Introducción
 
-1. [Hello GitHub](hello-github.md)
+1. [Hello GitHub](capitulos/hello-github.md)
 
 
 # Miscelánea
