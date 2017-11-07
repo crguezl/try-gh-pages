@@ -10,6 +10,10 @@ El despliegue de este repositorio puede verse en esta URL
 
 1. [Hello GitHub](capitulos/hello-github.md)
 
+# GitHub Desktop
+
+1. [Introducción a GitHub Desktop](capitulos/github-desktop.md)
+
 
 # Miscelánea
 
