@@ -1,4 +1,17 @@
-# try-gh-pages
+# Prefacio
+
+Todo este repo contiene una web que es escrita usando sólo la interfaz web de GitHub y las gh-pages.
+Los autores sólo han usado la interfaz web para producir estos contenidos.
+
+El despliegue de este repositorio puede verse en esta URL 
+[https://crguezl.github.io/try-gh-pages/](https://crguezl.github.io/try-gh-pages/)
+
+# Introducción
+
+1. [Hello GitHub](hello-github.md)
+
+
+# Miscelánea
 
 Vamos a aprender a hacer un website y publicarlo.
 Para ello seguimos los siguientes pasos:
@@ -9,10 +22,3 @@ Para ello seguimos los siguientes pasos:
    ![Activacion de las gh-pages](images/Captura%20de%20pantalla%202017-11-07%20a%20las%2012.28.58.png)
 Podemos ver esta misma página desplegada en esta
 
-# Despliegue
-
-URL [https://crguezl.github.io/try-gh-pages/](https://crguezl.github.io/try-gh-pages/)
-
-# Capítulos
-
-1. [Introducción a GitHub](hello-github.md)
